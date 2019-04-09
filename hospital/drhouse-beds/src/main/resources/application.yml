@@ -1,0 +1,15 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/patients
+
+server:
+  port: 9003
+
+medical:
+  treatments:
+    tumor: chemotherapy
+    lupus: operation
+
+accountancy:
+  url: http://localhost:9005/patients
