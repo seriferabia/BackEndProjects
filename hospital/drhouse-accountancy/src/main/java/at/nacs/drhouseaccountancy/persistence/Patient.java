@@ -18,6 +18,7 @@ public class Patient {
     @GeneratedValue
     private Long id;
 
+    @Column(unique = true)
     private String uuid;
 
     @Column(unique = true)
