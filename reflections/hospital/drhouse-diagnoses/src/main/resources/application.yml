@@ -1,0 +1,22 @@
+server:
+  port: 9002
+
+beds:
+  url: http://localhost:9003/patients
+
+pharmacy:
+  url: http://localhost:9004/patients
+
+medical:
+  diagnosis:
+    headache: migren
+    stomachache: reflux
+    faint: tumor
+
+direction:
+  units:
+    migren: pharmacy
+    reflux: pharmacy
+    tumor: beds
+    lupus: beds
+
