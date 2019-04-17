@@ -1,0 +1,54 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    color: lightpink;
+}
+
+h2 {
+    font-size: 2em;
+    text-align: center;
+    color: greenyellow;
+}
+
+h3 {
+    font-size: 2em;
+    text-align: center;
+    color: darkblue;
+}
+
+p {
+    font-size: large;
+    color: blue;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+}
+
+input {
+    width: 375px;
+    height: 25px;
+}
+
+#button01 {
+    background-color: purple;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    border-radius: 12px;
+
+}
+
