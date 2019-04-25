@@ -6,6 +6,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
+import javax.annotation.security.RolesAllowed;
 import java.util.List;
 
 @Controller
@@ -29,6 +30,7 @@ public class InvoiceController {
     return "invoice";
   }
 
+  @RolesAllowed("ACCOUNTANT")
   @PostMapping("/paid")
   String post(@RequestParam String id) {
     client.markAsPaid(id);

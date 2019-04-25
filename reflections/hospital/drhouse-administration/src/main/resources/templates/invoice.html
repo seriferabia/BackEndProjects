@@ -42,6 +42,11 @@
         <td th:text="${invoice.timestamp}">Time</td>
     </tr>
 </table>
+<br>
+<br>
+<form method="post" th:action="@{/logout}">
+    <button>Sign out</button>
+</form>
 
 </body>
 </html>

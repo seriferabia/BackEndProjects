@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: lightblue;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 h2 {
     font-size: 2em;
     text-align: center;
-    color: greenyellow;
+    color: purple;
 }
 
 h3 {
@@ -23,6 +23,7 @@ h3 {
 p {
     font-size: large;
     color: blue;
+    alignment: center;
 }
 
 table, th, td {
@@ -49,6 +50,25 @@ input {
     padding: 15px 32px;
     font-size: 16px;
     border-radius: 12px;
+    alignment: center;
 
 }
 
+a {
+    text-align: center;
+    font-size: 26px;
+}
+
+a:link {
+    color: blue;
+}
+
+
+a:visited {
+    color: purple;
+}
+
+
+a:hover {
+    color: hotpink;
+}
