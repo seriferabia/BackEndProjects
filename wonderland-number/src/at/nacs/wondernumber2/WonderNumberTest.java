@@ -1,4 +1,4 @@
-package wondernumber2;
+package at.nacs.wondernumber2;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,4 +1,4 @@
-package wondernumber1.controller;
+package at.nacs.wondernumber1.controller;
 
 public class NumberOfDigitsIdentifier {
   private static final int NUMBER_OF_DIGITS = 6;

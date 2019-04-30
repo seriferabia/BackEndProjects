@@ -1,7 +1,7 @@
-package wondernumber2;
+package at.nacs.wondernumber2;
 
-import wondernumber2.verifier.Verifier;
-import wondernumber2.verifier.Verifiers;
+import at.nacs.wondernumber2.verifier.Verifier;
+import at.nacs.wondernumber2.verifier.Verifiers;
 
 import java.util.List;
 import java.util.stream.Stream;

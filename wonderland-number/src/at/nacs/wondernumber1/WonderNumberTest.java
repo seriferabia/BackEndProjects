@@ -1,4 +1,4 @@
-package wondernumber1;
+package at.nacs.wondernumber1;
 
 import org.junit.jupiter.api.Test;
 

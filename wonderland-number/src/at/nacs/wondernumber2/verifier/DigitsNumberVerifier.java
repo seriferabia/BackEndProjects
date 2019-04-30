@@ -1,4 +1,4 @@
-package wondernumber2.verifier;
+package at.nacs.wondernumber2.verifier;
 
 public class DigitsNumberVerifier implements Verifier {
   private final int NUMBER_OF_DIGITS = 6;

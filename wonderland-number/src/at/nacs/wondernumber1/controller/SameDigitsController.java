@@ -1,4 +1,4 @@
-package wondernumber1.controller;
+package at.nacs.wondernumber1.controller;
 
 import java.util.stream.Collectors;
 import java.util.stream.Stream;

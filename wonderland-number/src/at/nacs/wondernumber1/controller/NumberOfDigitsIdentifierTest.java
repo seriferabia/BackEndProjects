@@ -1,4 +1,4 @@
-package wondernumber1.controller;
+package at.nacs.wondernumber1.controller;
 
 import org.junit.jupiter.api.Test;
 

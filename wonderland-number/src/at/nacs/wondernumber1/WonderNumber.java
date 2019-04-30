@@ -1,7 +1,7 @@
-package wondernumber1;
+package at.nacs.wondernumber1;
 
-import wondernumber1.controller.MultipliedNumberVerifier;
-import wondernumber1.controller.NumberOfDigitsIdentifier;
+import at.nacs.wondernumber1.controller.MultipliedNumberVerifier;
+import at.nacs.wondernumber1.controller.NumberOfDigitsIdentifier;
 
 import java.util.stream.IntStream;
 

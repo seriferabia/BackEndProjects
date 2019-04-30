@@ -1,4 +1,4 @@
-package wondernumber2.verifier;
+package at.nacs.wondernumber2.verifier;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
