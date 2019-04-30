@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5649504e-29b9-4f4a-bd87-38a9ec4fd0e4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/NumberOfDigitsIdentifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/NumberOfDigitsIdentifierTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wondernumber1/WonderNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wondernumber1/WonderNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/MultipliedNumberVerifierTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/Multipliers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/SameDigitsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/SameDigitsControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/MultipliedNumberVerifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Multipliers.java" />
+        <option value="$PROJECT_DIR$/src/verifier/Extremum.java" />
+        <option value="$PROJECT_DIR$/src/Extremum.java" />
+        <option value="$PROJECT_DIR$/src/Extremums.java" />
+        <option value="$PROJECT_DIR$/src/Extrema.java" />
+        <option value="$PROJECT_DIR$/src/verifier/SameDigitsVerifier.java" />
+        <option value="$PROJECT_DIR$/src/DigitsNumberIdentifier.java" />
+        <option value="$PROJECT_DIR$/src/verifier/DigitsNumberIdentifier.java" />
+        <option value="$PROJECT_DIR$/src/verifier/WonderNumberVerifier.java" />
+        <option value="$PROJECT_DIR$/src/verifier/Verifier.java" />
+        <option value="$PROJECT_DIR$/src/second/DigitsNumberIdentifier.java" />
+        <option value="$PROJECT_DIR$/src/second/Multipliers.java" />
+        <option value="$PROJECT_DIR$/src/second/WonderNumber2.java" />
+        <option value="$PROJECT_DIR$/src/second/SameDigitsController.java" />
+        <option value="$PROJECT_DIR$/src/verifier/DigitsNumberVerifierTest.java" />
+        <option value="$PROJECT_DIR$/src/second/SameDigitsControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/verifier/SameDigitsController.java" />
+        <option value="$PROJECT_DIR$/src/verifier/SameDigitsControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/verifier/DigitsNumberVerifier.java" />
+        <option value="$PROJECT_DIR$/src/verifier/MultipliedNumberVerifierTest.java" />
+        <option value="$PROJECT_DIR$/src/verifier/Verifiers.java" />
+        <option value="$PROJECT_DIR$/src/second/MultipliedNumberVerifier.java" />
+        <option value="$PROJECT_DIR$/src/verifier/MultipliedNumberVerifier.java" />
+        <option value="$PROJECT_DIR$/src/WonderNumber2.java" />
+        <option value="$PROJECT_DIR$/src/WonderNumber.java" />
+        <option value="$PROJECT_DIR$/src/logic/DigitsNumberIdentifier.java" />
+        <option value="$PROJECT_DIR$/src/logic/DigitsNumberIdentifierTest.java" />
+        <option value="$PROJECT_DIR$/src/logic/MultipliedNumberVerifierTest.java" />
+        <option value="$PROJECT_DIR$/src/WonderNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/logic/SameDigitsControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/verifier/Verifier.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/verifier/DigitsNumberVerifier.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/verifier/MultipliedNumberVerifier.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/verifier/Multipliers.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/verifier/SameDigitsController.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/verifier/MultipliedNumberVerifierTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/verifier/SameDigitsControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/verifier/DigitsNumberVerifierTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/verifier/Verifiers.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/WonderNumber.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber2/WonderNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/logic/DigitsNumberIdentifierTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/logic/DigitsNumberIdentifier.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/logic/SameDigitsController.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/logic/SameDigitsControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/logic/MultipliedNumberVerifier.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/logic/MultipliedNumberVerifierTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/WonderNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/logic/NumberOfDigitsIdentifier.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/logic/NumberOfDigitsIdentifierTest.java" />
+        <option value="$PROJECT_DIR$/src/wondernumber1/WonderNumber.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="320" />
+    <option name="y" value="549" />
+    <option name="width" value="1390" />
+    <option name="height" value="1007" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wonderland-number" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wonderland-number" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wonderland-number" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wonderland-number" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wonderland-number" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wonderland-number" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wondernumber1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/logic" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="logic" />
+      <recent name="verifier" />
+      <recent name="second" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="second" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/logic" />
+      <recent name="$PROJECT_DIR$/src/second" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.NumberOfDigitsIdentifierTest">
+    <configuration name="NumberOfDigitsIdentifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wonderland-number" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wondernumber1.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wondernumber1.controller" />
+      <option name="MAIN_CLASS_NAME" value="wondernumber1.controller.NumberOfDigitsIdentifierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfDigitsIdentifierTest.getPossibleMaxWonderNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wonderland-number" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wondernumber1.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wondernumber1.controller" />
+      <option name="MAIN_CLASS_NAME" value="wondernumber1.controller.NumberOfDigitsIdentifierTest" />
+      <option name="METHOD_NAME" value="getPossibleMaxWonderNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfDigitsIdentifierTest.testGetPossibleMinWonderNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wonderland-number" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wondernumber1.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wondernumber1.controller" />
+      <option name="MAIN_CLASS_NAME" value="wondernumber1.controller.NumberOfDigitsIdentifierTest" />
+      <option name="METHOD_NAME" value="testGetPossibleMinWonderNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WonderNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wonderland-number" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wondernumber1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wondernumber1" />
+      <option name="MAIN_CLASS_NAME" value="wondernumber1.WonderNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WonderNumberTest.testFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wonderland-number" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wondernumber1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wondernumber1" />
+      <option name="MAIN_CLASS_NAME" value="wondernumber1.WonderNumberTest" />
+      <option name="METHOD_NAME" value="testFind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumberOfDigitsIdentifierTest" />
+        <item itemvalue="JUnit.NumberOfDigitsIdentifierTest.getPossibleMaxWonderNumber" />
+        <item itemvalue="JUnit.NumberOfDigitsIdentifierTest.testGetPossibleMinWonderNumber" />
+        <item itemvalue="JUnit.WonderNumberTest.testFind" />
+        <item itemvalue="JUnit.WonderNumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5649504e-29b9-4f4a-bd87-38a9ec4fd0e4" name="Default Changelist" comment="" />
+      <created>1556378056127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556378056127</updated>
+      <workItem from="1556378057947" duration="1043000" />
+      <workItem from="1556379231720" duration="12334000" />
+      <workItem from="1556525727005" duration="723000" />
+      <workItem from="1556527585683" duration="5633000" />
+      <workItem from="1556571393749" duration="1828000" />
+      <workItem from="1556609246712" duration="327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MultipliedNumberVerifierTest_(1) - 2019.04.29 at 11h 34m 58s.xml">
+      <configuration name="MultipliedNumberVerifierTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DigitsNumberVerifierTest - 2019.04.29 at 11h 35m 07s.xml">
+      <configuration name="DigitsNumberVerifierTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DigitsNumberIdentifierTest - 2019.04.29 at 16h 31m 48s.xml">
+      <configuration name="DigitsNumberIdentifierTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultipliedNumberVerifierTest_verify - 2019.04.29 at 16h 32m 28s.xml">
+      <configuration name="MultipliedNumberVerifierTest.verify" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SameDigitsControllerTest - 2019.04.29 at 16h 33m 09s.xml">
+      <configuration name="SameDigitsControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WonderNumberTest - 2019.04.29 at 23h 19m 15s.xml">
+      <configuration name="WonderNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WonderNumberTest_testFind - 2019.04.29 at 23h 19m 29s.xml">
+      <configuration name="WonderNumberTest.testFind" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOfDigitsIdentifierTest_testGetPossibleMinWonderNumber - 2019.04.29 at 23h 21m 48s.xml">
+      <configuration name="NumberOfDigitsIdentifierTest.testGetPossibleMinWonderNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOfDigitsIdentifierTest_getPossibleMaxWonderNumber - 2019.04.29 at 23h 22m 18s.xml">
+      <configuration name="NumberOfDigitsIdentifierTest.getPossibleMaxWonderNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOfDigitsIdentifierTest - 2019.04.29 at 23h 22m 31s.xml">
+      <configuration name="NumberOfDigitsIdentifierTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21888000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="27" width="1853" height="1053" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26342005" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297062" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3297062" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Extrema.java" />
+    <entry file="file://$PROJECT_DIR$/src/second/SameDigitsControllerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/verifier/DigitsNumberVerifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/verifier/DigitsNumberVerifierTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/verifier/MultipliedNumberVerifierTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/verifier/SameDigitsControllerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/verifier/Verifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/verifier/Verifiers.java" />
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/verifier/DigitsNumberVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/WonderNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/WonderNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/verifier/Verifiers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/verifier/Verifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/verifier/Multipliers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/verifier/MultipliedNumberVerifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/verifier/MultipliedNumberVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/verifier/DigitsNumberVerifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/verifier/SameDigitsControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber2/verifier/SameDigitsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/NumberOfDigitsIdentifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/NumberOfDigitsIdentifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber1/WonderNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/MultipliedNumberVerifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/Multipliers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/SameDigitsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/SameDigitsControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber1/controller/MultipliedNumberVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wondernumber1/WonderNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>wonderland-number</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-jupiter-api-5.5.0-M1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
