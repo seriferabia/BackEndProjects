@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: marcopolo.marco
+        input:
+          destination: marcopolo.polo
+          group: marco
+
+      kafka:
+        binder:
+          brokers: localhost

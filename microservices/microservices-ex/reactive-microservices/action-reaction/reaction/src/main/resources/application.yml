@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        actions:
+          destination: actionreaction.action
+          group: actions
+        reactions:
+          destination: actionreaction.reaction
+
+      kafka:
+        binder:
+          brokers:
+            - localhost
+          auto-add-partitions: true
+          min-partition-count: 8

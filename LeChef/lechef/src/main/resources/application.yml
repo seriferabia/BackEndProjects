@@ -1,0 +1,12 @@
+server:
+  port: 9000
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/lechef_app?useSSL=false
+    username: greedy
+    password: serife
+
+  jpa:
+    hibernate:
+      ddl-auto: update

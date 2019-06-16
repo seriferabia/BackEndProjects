@@ -1,0 +1,13 @@
+coding-cafe:
+  beveragesMenu:
+    Espresso: 1.5
+    Americano: 2.00
+    Latte: 2.20
+
+testdata:
+  purchase:
+    beverages:
+
+  names: Espresso, Latte
+
+

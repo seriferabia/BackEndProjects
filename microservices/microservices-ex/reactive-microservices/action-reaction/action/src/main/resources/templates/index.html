@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Action/Reaction</title>
+</head>
+<body>
+
+<h1>Action / Reaction</h1>
+<form method="post" th:action="@{/}">
+    <button>Trigger action</button>
+</form>
+
+<h2>Operations</h2>
+<ol>
+    <li th:each=" operation : ${operations}">
+        Operation - Action -
+        <span th:text="${operation.action}"> actiontime </span>
+        - Reaction -
+        <span th:if="${operation.reaction == null}">IN PROGRESS</span>
+        <span th:unless="${operation.reaction == null}" th:text="${operation.reaction}"> reactiontime </span>
+    </li>
+</ol>
+
+
+</body>
+</html>

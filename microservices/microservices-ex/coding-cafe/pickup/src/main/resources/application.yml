@@ -1,0 +1,13 @@
+server:
+  port: 8003
+  servlet:
+    session:
+      timeout: 30s
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+

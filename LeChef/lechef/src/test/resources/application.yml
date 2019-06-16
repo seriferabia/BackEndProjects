@@ -1,0 +1,116 @@
+testdata:
+  recipes:
+    - name: tramisu
+      type: dessert
+      labels: gluten free, vegetarian
+      origin: italy
+      ingredients:
+        - name: ladyfinger
+          amount: 1
+          unit: packet
+        - name: cream
+          amount: 250
+          unit: ml
+        - name: coffe
+          amount: 50
+          unit: ml
+        - name: cacao
+          amount: 50
+          unit: gr
+    - name: doner
+      type: meal
+      labels: spicy, nonvegan
+      origin: turkey
+      ingredients:
+        - name: meat
+          amount: 1000
+          unit: gr
+        - name: spices
+          amount: 25
+          unit: gr
+    - name: tzatziki
+      type: appetizer
+      labels: vegetarian, salty
+      origin: greece
+      ingredients:
+        - name: cucumber
+          amount: 1
+          unit: piece
+        - name: yogurt
+          amount: 150
+          unit: gr
+  recipe:
+    name: shavarma
+    type: meal
+    labels: spicy, nonvegan
+    origin: syrian
+  testingredients1:
+    - name: cucumber
+      amount: 1
+      unit: piece
+    - name: yogurt
+      amount: 150
+      unit: gr
+  testingredients2:
+    - name: ladyfinger
+      amount: 1
+      unit: packet
+    - name: cream
+      amount: 250
+      unit: ml
+    - name: coffee
+      amount: 50
+      unit: ml
+
+testdata2:
+  user:
+    username: tester
+    password: tester
+    kitchen:
+      items:
+        - name: cucumber
+          amount: 1
+          unit: piece
+        - name: yogurt
+          amount: 250
+          unit: gr
+  user2:
+    username: tester2
+    password: tester2
+
+  ingredients:
+    - name: egg
+      unit: piece
+      amount: 10
+    - name: milk
+      unit: ltr
+      amount: 0.5
+  ingredient:
+    name: flour
+    unit: gr
+    amount: 500
+
+  recipe:
+    name: tzatziki
+    type: appetizer
+    labels: vegetarian, salty
+    origin: greece
+    ingredients:
+      - name: cucumber
+        amount: 1
+        unit: piece
+      - name: yogurt
+        amount: 150
+        unit: gr
+  recipe2:
+    name: doner
+    type: meal
+    labels: spicy, nonvegan
+    origin: turkey
+    ingredients:
+      - name: meat
+        amount: 1000
+        unit: gr
+      - name: spices
+        amount: 25
+        unit: gr

@@ -1,0 +1,17 @@
+server:
+  port: 9000
+
+spring:
+  cloud:
+    stream:
+      bindings:
+        actions:
+          destination: actionreaction.action
+        reactions:
+          destination: actionreaction.reaction
+          group: reactions
+
+      kafka:
+        binder:
+          brokers:
+            - localhost
